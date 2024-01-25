@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\Source\\TestingShooting\\Private\\NoneClassTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\.vscode\\compileCommands_Default\\TestingShooting.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\Source\\TestingShooting\\Public\\NoneClassTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\.vscode\\compileCommands_Default\\TestingShooting.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\Source\\TestingShooting\\TestingShooting.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\.vscode\\compileCommands_Default\\TestingShooting.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\Source\\TestingShooting\\TestingShooting.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\.vscode\\compileCommands_Default\\TestingShooting.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\Source\\TestingShooting\\TestingShooting.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects\\5_3\\BP\\TestingShooting\\.vscode\\compileCommands_Default\\TestingShooting.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\UE_5.3\\Engine\\Source"
+	}
+]
